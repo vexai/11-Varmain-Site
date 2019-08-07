@@ -1,0 +1,25 @@
+<div>
+                        <div class="blog-card spring-fever">
+                            <div class="title-content">
+                                  <h3>10 inspiring photos</h3>
+                                <div class="intro">Inspiration 
+                                    </br>
+                                    </br>
+                                    </br>
+                                    <div class="utility-info">                
+                                        <span class="licon icon-dat"></span>03 jul 2019               
+                                    </div>
+                                </div>
+                                    
+                            </div>
+        
+                            <div class="card-info">
+                                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim...</p> 
+                                  <a href="#">Read Article</a>
+                                  
+                                </div>
+                                
+                                <div class="gradient-overlay"></div>
+                                <div class="color-overlay"></div>
+                        </div>
+                    </div>
